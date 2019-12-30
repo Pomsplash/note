@@ -1,0 +1,37 @@
+Format macos process
+
+1. Restart mac, then press cmd+r until acess to mac bios
+
+2. Erase data with bottom row command.
+
+3. Install new macos, second row command.
+
+4. In set directory name process, set directory name less than 24 letters,
+because of screen linux command.
+
+5. After installed new macos, update macos in system preferences.
+
+6. Download emacs
+
+7. Remap caps lock to control
+
+8. Install Opera and log in as passavich.lim@gmail.com
+
+9.
+
+With battery drain while sleep mode issue
+
+System preferences
+
+1. In Notifications, check on "When the display is sleeping"
+
+2. In Bluetooth/Advanced check off "Allow Bluetooth to devices to wake this computer
+
+3. In Energy Saver, check off "Enable Power Nap while plugged into a power adapter
+
+In terminal
+
+1.  sudo pmset -b tcpkeepalive 0
+
+
+
