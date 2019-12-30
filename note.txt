@@ -17,7 +17,7 @@ because of screen linux command.
 
 8. Install Opera and log in as passavich.lim@gmail.com
 
-9.
+9. Install R programming first, then rstudio
 
 With battery drain while sleep mode issue
 
